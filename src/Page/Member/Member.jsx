@@ -104,7 +104,7 @@ export default function Member() {
             <h1 class="display-4 font-italic">Outreach Team</h1>
           <Row>
             <Col>
-              <h4 class="h4 bold">Meetings</h4>
+              <h4 class="h4 bold">Meekjsfkjsdfkjtings</h4>
               <h6 class="h5 bold">Wednesdays 7:30-8:30 PM</h6>
               <br/>
               <AddToCalendar event={event}></AddToCalendar>
